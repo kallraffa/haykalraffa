@@ -1,9 +1,11 @@
 # Introduction to My Coding Journey
 # Hello !
 I'm Haykal Rafa Zulkarnaen.
+
 A passionate software developer with experience across various software development projects. I am keenly interested in technology and am constantly learning and growing in this field.
 
 My Experience.
+
 I am actively taking online boot camp courses at Dicoding, Udemy, Skilvul, Sanbercode. Over the past few years, I've worked on various projects involving software development. I have expertise in programming languages such as C, C++, Dart, Python, JavaScript, Haskell, and Node JS, as well as experience in coding web development, mobile application development, AWS infrastructure, data visualization, and database management. I'm also proficient in using various development tools like Git, Docker, and Kubernetes. I am proud to contribute to several open-source projects and develop useful applications. Some of the projects I've worked on can be seen in the public git-hub repository and git-lab repository.
 
 My Mission.
